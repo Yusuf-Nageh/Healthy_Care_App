@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="calorise_in_food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Colors _in_food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="In_Body.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perfect weight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
