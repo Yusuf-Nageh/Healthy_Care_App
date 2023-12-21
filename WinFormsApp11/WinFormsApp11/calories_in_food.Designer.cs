@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp11
 {
-    partial class calorise_in_food
+    partial class calories_in_food
     {
         /// <summary>
         /// Required designer variable.
